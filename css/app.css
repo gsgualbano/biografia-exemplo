@@ -1,0 +1,148 @@
+body {
+    background: #F2FFFC;
+    font-family: "Crimson Text", serif;
+    font-size: 20px;
+}
+
+.container {
+	width: 720px;
+	margin: auto;
+    padding: 30px 0;
+    padding-bottom: 80px;
+}
+
+main {
+    float:left;
+    width: 85%;
+}
+
+main h1 {
+    font-size: 60px;
+    background: #851944;
+    color: #F2FFFC;
+    text-align: center;
+    font-family: "Open Sans Condensed", sans-serif;
+    padding: 25px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 30px;    
+    font-family: "Open Sans Condensed", sans-serif;
+    clear: both;
+}
+
+p {
+    text-align: justify;
+    margin: 20px 0px;
+}
+
+blockquote {
+    background: #D3DDDA;
+    padding: 10px;
+    border: 10px solid #C2CCCA;
+    width: 250px;
+    margin: 20px 40px;
+    box-sizing: border-box;
+}
+
+.fiat {
+    float: right;    
+}
+
+.petrobras {
+    float: left;
+}
+
+b {
+    font-weight: 600;
+}
+
+aside {
+    background: #3C1D3D;
+    color:#F2FFFC; 
+    font-family: "Open Sans Condensed", sans-serif;
+    padding: 20px;
+    text-align: center;   
+    width: 15%;
+    position: relative;
+    top: 310px;
+}
+
+aside, .minha-foto {
+    box-sizing: border-box;
+    float: right;
+    border-left: 10px solid black;
+    border-bottom: 10px solid black;
+}
+
+.minha-foto {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+nav h1 {
+    font-size: 30px;
+    margin-bottom: 25px;
+}
+
+nav a {
+    color: inherit; 
+}
+
+.icones-sociais li {
+    display: inline-block;
+}
+
+.icones-sociais a {
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    text-indent: -9999px;
+}
+
+#github {
+    background-image: url(../imagens/github.png); 
+}
+
+#twitter {
+    background-image: url(../imagens/twitter.png); 
+}
+
+#linkedin {
+    background-image: url(../imagens/linkedin.png); 
+}
+
+footer {
+    background: #000000;
+    color: #F2FFFC;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.gualcorp-logo {
+    width: 10%;
+    box-sizing: border-box;
+    position: absolute;
+    bottom: 0;
+    right: 50px;
+    float: right;
+}
+
+.ref {
+    position: relative;
+    float: right;
+    right: 250px;
+}
+
+
+
+
+
+
+
+
